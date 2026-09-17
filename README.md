@@ -123,7 +123,7 @@ flowchart TD
         B_OverSpeed["OverSpeedMonitor<br/>(異常加速監視)"]
     end
 
-    subgraph Pure_Logic ["Domain Model (Pure C# / Unity非依存)"]
+    subgraph Pure_Logic ["Domain Model (C# )"]
         M_Pose["CranePoseModel<br/>(姿勢計算・長さ角拘束)"]
         M_Snapshot["CraneSetupSnapshot<br/>(不変初期姿勢データ)"]
         M_Board["ScoreBoard<br/>(煩悩/ご利益集計ルール)"]
