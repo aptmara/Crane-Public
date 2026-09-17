@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5becad181595daf4ebc56b3a23c050ae, type: 3}
+  m_Name: WoodHammer
+  m_EditorClassIdentifier: Assembly-CSharp::Crane.Hammer.HammerDefinition
+  Id: WoodHammer
+  DisplayName: "\u6728\u69CC"
+  Mass: 0.2
+  DamageBonus: 0.4
+  Sprite: {fileID: -2397717591210188218, guid: 751c35dc20c00e247bae5814971c3594, type: 3}
+  HitSound: {fileID: 8300000, guid: f12eb574a6df30345843597550b29a6f, type: 3}

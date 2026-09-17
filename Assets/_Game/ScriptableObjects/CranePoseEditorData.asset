@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c27cc3d186918b428d498becd6c4247, type: 3}
+  m_Name: CranePoseEditorData
+  m_EditorClassIdentifier: Assembly-CSharp::Crane.Data.CranePoseEditorData
+  ReferenceResolution: {x: 1920, y: 1080}
+  BoomPivot: {x: 283.39, y: -384.95}
+  UpperLinkPivot: {x: -2.900055, y: 54.380005}
+  LowerLinkPivot: {x: 215.35, y: 67.71}
+  LowerLinkEndPoint: {x: 136.22327, y: 272.276}
+  BellPosition: {x: -193.8, y: -330.5}
+  BellSize: {x: 110.7713, y: 156.627}
+  BellColor: {r: 1, g: 1, b: 1, a: 1}
+  BoomMinAngle: 110.5717
+  BoomMaxAngle: 145.1259
+  BoomMaxAngularSpeed: 45
+  BoomThickness: 72
+  LinkThickness: 28
+  HammerSize: {x: 150, y: 82}
+  HammerRotationOffset: 90
+  BoomHitPadding: 18
+  UpperLinkHandleSize: {x: 227.25, y: 227.25}
+  LowerLinkHandleSize: {x: 227.25, y: 227.25}
+  PivotSize: 22
+  BackgroundColor: {r: 0.2078, g: 0.2745, b: 0.4, a: 1}
+  BoomColor: {r: 1, g: 1, b: 1, a: 0}
+  LinkColor: {r: 1, g: 1, b: 1, a: 1}
+  HammerColor: {r: 0.749, g: 0.769, b: 0.78, a: 1}
+  HandleColor: {r: 1, g: 1, b: 1, a: 1}
+  PivotColor: {r: 0.96, g: 0.96, b: 0.96, a: 0}
